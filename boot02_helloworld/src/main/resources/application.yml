@@ -1,0 +1,30 @@
+person:
+  boss: true
+  birth: 2019/12/9
+  age: 19
+#  interests: [篮球,足球]
+  interets:
+    - 篮球
+    - 足球
+  animal: [阿猫,阿狗]
+#  score:
+#    english: 90
+#    math: 80
+  score: {english:90,math:80}
+  salarys:
+    - 9999.99
+    - 9999.98
+  pet:
+    name: 阿狗
+    weight: 99.99
+  allPets:
+    sick:
+      - {name:阿狗,weight:99.99}
+      - name: 阿猫
+        weight: 88.88
+      - name: 阿虫
+        weight: 77.77
+    health:
+      - {name:阿花,weight:66.66}
+      - {name:阿乐,weight:55.55}
+  user-name:
